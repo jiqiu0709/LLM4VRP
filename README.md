@@ -109,7 +109,7 @@ This repository compiles research papers on the application of Large Language Mo
 
 
 
-## OpenReview Papers (6 papers)
+## Conference Papers (7 papers)
 
 ### 2025
 
@@ -139,5 +139,8 @@ This repository compiles research papers on the application of Large Language Mo
    - Conference: ICLR 2026
    - Year: 2026
 
----
+7. **[Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/40982)**
+   - Conference: AAAI 2026
+   - Year: 2026
 
+---
