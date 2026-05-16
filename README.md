@@ -113,32 +113,31 @@ This repository compiles research papers on the application of Large Language Mo
 
 ### 2025
 
-1. **DRoC: Elevating Large Language Models for Complex Vehicle Routing via Decomposed Retrieval of Constraints**
+1. **[DRoC: Elevating Large Language Models for Complex Vehicle Routing via Decomposed Retrieval of Constraints](https://openreview.net/forum?id=s9zoyICZ4k)**
    - Conference: ICLR 2025
    - Year: 2025
 
-2. **Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning**
+2. **[Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning](https://openreview.net/forum?id=QPJjiNCRq1)**
    - Conference: NeurIPS 2025
    - Year: 2025
 
-3. **NaDRO: Leveraging Dual-Reward Strategies for LLMs Training on Noisy Data**
+3. **[NaDRO: Leveraging Dual-Reward Strategies for LLMs Training on Noisy Data](https://openreview.net/forum?id=e7jNIna1eP)**
    - Conference: NeurIPS 2025
    - Year: 2025
 
 ### 2026
 
-4. **An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems**
+4. **[An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems](https://openreview.net/forum?id=BMOgYw4EhQ)**
    - Conference: ICLR 2026
    - Year: 2026
 
-5. **From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization**
+5. **[From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization](https://openreview.net/forum?id=T9FDmsmoBj)**
    - Conference: ICLR 2026
    - Year: 2026
 
-6. **Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM**
+6. **[Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM](https://openreview.net/forum?id=aITKXFeivk)**
    - Conference: ICLR 2026
    - Year: 2026
 
 ---
-
 
