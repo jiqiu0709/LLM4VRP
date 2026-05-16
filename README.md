@@ -1,6 +1,6 @@
 # LLM4VRP: Large Language Models for Vehicle Routing Problems
 
-This repository compiles research papers on the application of Large Language Models (LLMs) to Vehicle Routing Problems (VRP), collected from arXiv and OpenReview during the period from January 1, 2024 to May 16, 2026.
+This repository compiles research papers on the application of Large Language Models (LLMs) to Vehicle Routing Problems (VRP) during the period from January 1, 2024 to May 16, 2026.
 
 ---
 
