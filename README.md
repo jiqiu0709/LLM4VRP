@@ -109,7 +109,7 @@ This repository compiles research papers on the application of Large Language Mo
 
 
 
-## Conference Papers (7 papers)
+## Conference Papers (9 papers)
 
 ### 2025
 
@@ -140,6 +140,14 @@ This repository compiles research papers on the application of Large Language Mo
    - Year: 2026
 
 7. **[Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/40982)**
+   - Conference: AAAI 2026
+   - Year: 2026
+
+8. **[OptiHive: Ensemble Selection for LLM-Based Optimization via Statistical Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/40257)**
+   - Conference: AAAI 2026
+   - Year: 2026
+
+9. **[EoH-S: Evolution of Heuristic Set Using LLMs for Automated Heuristic Design](https://ojs.aaai.org/index.php/AAAI/article/view/41038)**
    - Conference: AAAI 2026
    - Year: 2026
 
