@@ -19,11 +19,6 @@ This repository compiles research papers on the application of Large Language Mo
 3. **[RouteExplainer: An Explanation Framework for Vehicle Routing Problem](http://arxiv.org/abs/2403.03585v1)**
    - Authors: Daisuke Kikuta, Hiroki Ikeuchi, Kengo Tajiri, Yuusuke Nakano
 
-
-4. **[Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character](http://arxiv.org/abs/2405.20773v2)**
-   - Authors: Siyuan Ma, Weidi Luo, Yu Wang, Xiaogeng Liu
-
-
 ### 2025
 
 1. **[ARS: Automatic Routing Solver with Large Language Models](http://arxiv.org/abs/2502.15359v3)**
