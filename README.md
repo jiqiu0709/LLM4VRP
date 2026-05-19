@@ -109,7 +109,7 @@ This repository compiles research papers on the application of Large Language Mo
 
 
 
-## Conference Papers (9 papers)
+## Conference Papers
 
 ### 2025
 
