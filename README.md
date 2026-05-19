@@ -4,7 +4,7 @@ This repository compiles research papers on the application of Large Language Mo
 
 ---
 
-## ArXiv Papers (25 papers)
+## ArXiv Papers 
 
 ### 2024
 
