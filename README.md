@@ -70,11 +70,6 @@ This repository compiles research papers on the application of Large Language Mo
 1. **[G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design](http://arxiv.org/abs/2602.08253v1)**
    - Authors: Baoyun Zhao, He Wang, Liang Zeng
 
-
-2. **[ConstraintBench: Benchmarking LLM Constraint Reasoning on Direct Optimization](http://arxiv.org/abs/2602.22465v2)**
-   - Authors: Joseph Tso, Preston Schmittou, Quan Huynh, Jibran Hutchins
-
-
 3. **[Enhancing CVRP Solver through LLM-driven Automatic Heuristic Design](http://arxiv.org/abs/2602.23092v1)**
    - Authors: Zhuoliang Xie, Fei Liu, Zhenkun Wang, Qingfu Zhang
 
