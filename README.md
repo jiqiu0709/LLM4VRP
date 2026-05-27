@@ -125,4 +125,9 @@ This repository compiles research papers on the application of Large Language Mo
    - Conference: AAAI 2026
    - Year: 2026
 
+
+10. **[DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization](https://arxiv.org/pdf/2601.06502)**
+   - Conference: AAMAS 2026
+   - Year: 2026
+
 ---
